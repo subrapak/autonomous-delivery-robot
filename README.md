@@ -8,7 +8,7 @@ The recent rise of automated processes has led to an explosion in appetite for r
 
 # Dependencies and Software
 
-* For the Raspberry Pi
+* For the Raspberry Pi \\
   Etcher:
   Microsoft Remote Desktop:
   Raspbian:
