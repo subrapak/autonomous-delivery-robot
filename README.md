@@ -12,15 +12,15 @@ The recent rise of automated processes has led to an explosion in appetite for r
 
   * Etcher: https://www.balena.io/etcher/
   
-  * Microsoft Remote Desktop:
+  * Microsoft Remote Desktop: https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps?activetab=pivot:overviewtab
   
-  * Raspbian:
+  * Raspbian Stretch (with Desktop): https://www.raspberrypi.org/downloads/raspbian/
   
 * SLAM Algorithm
 
-  * ORB-SLAM2 was used as the SLAM Algorithm, available at:
+  * ORB-SLAM2 was used as the SLAM Algorithm, available at: https://github.com/raulmur/ORB_SLAM2
   
-  * Ubuntu 18.04 was the OS used, on a MacBook Pro 2011. This was done by creating a virtual machine using VirtualBox:
+  * Ubuntu 18.04 was the OS used, on a MacBook Pro 2011. This was done by creating a virtual machine using VirtualBox: https://www.virtualbox.org/
   
 # Description of contents
 
