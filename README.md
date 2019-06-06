@@ -8,7 +8,7 @@ The recent rise of automated processes has led to an explosion in appetite for r
 
 # Dependencies and Software
 
-* For the Raspberry Pi: 
+## For the Raspberry Pi: 
 
   * Etcher: https://www.balena.io/etcher/
   
@@ -16,7 +16,7 @@ The recent rise of automated processes has led to an explosion in appetite for r
   
   * Raspbian Stretch (with Desktop): https://www.raspberrypi.org/downloads/raspbian/
   
-* SLAM Algorithm
+## SLAM Algorithm
 
   * ORB-SLAM2 was used as the SLAM Algorithm, available at: https://github.com/raulmur/ORB_SLAM2
   
@@ -24,4 +24,24 @@ The recent rise of automated processes has led to an explosion in appetite for r
   
 # Description of contents
 
-* 
+**calib_test**
+ * drawn_imgs, iPhone_chessboards, calibrate_camera.py is required for camera calibration
+ * pins_test.py is to test the functionality of GPIO pins on the Raspberry Pi
+ * calibrate_encoders.py is to calibrate pulse counts for the encoders
+ * ultrasonic_test.py is to test accuracy of the ultrasonic sensors
+
+**headers**
+ * These contain the custom written header files for the LCD, encoders, motors and ultrasonic sensors. [RPLCD](https://pypi.org/project/RPLCD/) is required for the LCD and the PiCamera has to be initialized ([instructions available here](https://thepihut.com/blogs/raspberry-pi-tutorials/16021420-how-to-install-use-the-raspberry-pi-camera))
+ 
+**im_process**
+
+* This contains an example video, and custom written scripts to convert a video into a sequence of images in the TUM and KITTI format.
+
+**main.py** contains the main robot control loop and **pi_compiled_07.mp4** is an example video of the project in action.
+
+[![EXAMPLE VIDEO](http://img.youtube.com/vi/https://youtu.be/iKiXkS0y30M/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/iKiXkS0y30M)
+
+
+ 
+ 
+ 
