@@ -8,14 +8,19 @@ The recent rise of automated processes has led to an explosion in appetite for r
 
 # Dependencies and Software
 
-* For the Raspberry Pi \n
-  Etcher:
-  Microsoft Remote Desktop:
-  Raspbian:
+* For the Raspberry Pi: 
+
+  * Etcher: https://www.balena.io/etcher/
+  
+  * Microsoft Remote Desktop:
+  
+  * Raspbian:
   
 * SLAM Algorithm
-  ORB-SLAM2 was used as the SLAM Algorithm, available at:
-  Ubuntu 18.04 was the OS used, on a MacBook Pro 2011. This was done by creating a virtual machine using VirtualBox:
+
+  * ORB-SLAM2 was used as the SLAM Algorithm, available at:
+  
+  * Ubuntu 18.04 was the OS used, on a MacBook Pro 2011. This was done by creating a virtual machine using VirtualBox:
   
 # Description of contents
 
