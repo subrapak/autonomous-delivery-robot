@@ -39,9 +39,4 @@ The recent rise of automated processes has led to an explosion in appetite for r
 
 **main.py** contains the main robot control loop and **pi_compiled_07.mp4** is an example video of the project in action.
 
-[![EXAMPLE VIDEO](http://img.youtube.com/vi/https://youtu.be/iKiXkS0y30M/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/iKiXkS0y30M)
-
-
- 
- 
- 
+EXAMPLE VIDEO: https://youtu.be/iKiXkS0y30M
